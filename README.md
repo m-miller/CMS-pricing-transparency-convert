@@ -1,6 +1,8 @@
 ## JavaScript/Node.js Usage
 
 ### Prerequisites
+```node v23.0.0```
+
 ```bash
 npm install csv-parse
 ```
