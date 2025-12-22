@@ -1,0 +1,44 @@
+{
+  "reporting_entity_name": "Veritas Collaborative",
+  "reporting_entity_type": "hospital",
+  "last_updated_on": "2025-12-27",
+  "version": "v1.0.0",
+  "reporting_plans": [
+    {
+      "plan_name": "Veritas Collaborative NC",
+      "plan_id_type": "ein",
+      "plan_id": "MHH0978",
+      "plan_market_type": "individual",
+      "in_network_files": [
+        {
+          "description": "North Carolina In-Network Rates",
+          "location": "https://example.com/2025-12-27_veritas-collaborative_nc_in-network-rates.json"
+        }
+      ]
+    },
+    {
+      "plan_name": "Veritas Collaborative NC - Durham",
+      "plan_id_type": "ein",
+      "plan_id": "MHH0972",
+      "plan_market_type": "individual",
+      "in_network_files": [
+        {
+          "description": "North Carolina In-Network Rates - Durham Location",
+          "location": "https://example.com/2025-12-27_veritas-collaborative_nc-durham_in-network-rates.json"
+        }
+      ]
+    },
+    {
+      "plan_name": "Veritas Collaborative GA",
+      "plan_id_type": "ein",
+      "plan_id": "044-0204",
+      "plan_market_type": "individual",
+      "in_network_files": [
+        {
+          "description": "Georgia In-Network Rates",
+          "location": "https://example.com/2025-12-27_veritas-collaborative_ga_in-network-rates.json"
+        }
+      ]
+    }
+  ]
+}
