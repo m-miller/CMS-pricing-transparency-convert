@@ -176,7 +176,7 @@ function convertCsvToInNetworkRates($csvFilePath, $outputJsonPath) {
 /*
 if (php_sapi_name() === 'cli') {
     $inputCsvPath = $argv[1] ?? ''; // title of csv file
-    $outputJsonPath = $argv[2] ?? '.json'; // title of output json
+    $outputJsonPath = $argv[2] ?? '.json'; // title of output json in format YYYY-MM-DD_cms_medicare_in-network-rates.json
     
     try {
         convertCsvToInNetworkRates($inputCsvPath, $outputJsonPath);
