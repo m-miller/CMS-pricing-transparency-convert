@@ -1,6 +1,7 @@
 ## JavaScript/Node.js Usage
 
-- update output line for .json file title
+- update output line 178 to .json filename
+- update CSV file input filename
 
 ### Prerequisites
 ```bash
