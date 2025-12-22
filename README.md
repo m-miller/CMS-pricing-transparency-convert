@@ -1,3 +1,9 @@
+## Accanto CMS Pricing Transparency
+
+- Export pricing transparency Excel file as CSV.
+- Convert using JavaScript or PHP convert scripts
+- Update table_of_contents.json with converted json files (NC & GA, etc)
+
 ## JavaScript/Node.js Usage
 
 - update output line 178 to .json filename
