@@ -173,8 +173,9 @@ function convertCsvToInNetworkRates(csvFilePath, outputJsonPath) {
 
 // Usage
 if (require.main === module) {
-    const inputCsvPath = process.argv[2] || 'Pricing_Transparency_file_Nov_2025_GA_Facility_.csv';
-    const outputJsonPath = process.argv[3] || 'in_network_rates.json';
+    const inputCsvPath = process.argv[2] || 'Pricing_Transparency_file_Nov_2025_GA_Facility_.csv'; 
+
+    const outputJsonPath = process.argv[3] || 'in_network_rates.json'; //2025-12-28_GA_Facility_in-network-rates.json
 
     try {
         convertCsvToInNetworkRates(inputCsvPath, outputJsonPath);
