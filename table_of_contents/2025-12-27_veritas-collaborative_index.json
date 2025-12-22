@@ -12,7 +12,7 @@
       "in_network_files": [
         {
           "description": "North Carolina In-Network Rates",
-          "location": "https://example.com/2025-12-27_veritas-collaborative_nc_in-network-rates.json"
+          "location": "https://emilyprogram.com/2025-12-27_veritas-collaborative_nc_in-network-rates.json"
         }
       ]
     },
@@ -24,7 +24,7 @@
       "in_network_files": [
         {
           "description": "North Carolina In-Network Rates - Durham Location",
-          "location": "https://example.com/2025-12-27_veritas-collaborative_nc-durham_in-network-rates.json"
+          "location": "https://emilyprogram.com/2025-12-27_veritas-collaborative_nc-durham_in-network-rates.json"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "in_network_files": [
         {
           "description": "Georgia In-Network Rates",
-          "location": "https://example.com/2025-12-27_veritas-collaborative_ga_in-network-rates.json"
+          "location": "https://emilyprogram.com/2025-12-27_veritas-collaborative_ga_in-network-rates.json"
         }
       ]
     }
