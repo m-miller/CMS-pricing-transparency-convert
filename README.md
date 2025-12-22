@@ -1,6 +1,6 @@
 ## Accanto CMS Pricing Transparency
 
-- Export pricing transparency Excel file as CSV.
+- Export needed pricing transparency Excel sheets as CSV files. Column/row format must not be changed from current format.
 - Convert using JavaScript or PHP convert scripts
 - Update table_of_contents file with converted json files (NC & GA, etc) and date
 - Update HTML tables with current data
