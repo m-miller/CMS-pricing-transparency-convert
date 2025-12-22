@@ -4,7 +4,7 @@
 - Convert using JavaScript or PHP convert scripts
 - Update table_of_contents file with converted json files (NC & GA, etc) and date
 - Update HTML tables with current data
-- Upload json files and Table of Contents json file to same directory
+- Upload json files and Table of Contents json file to same directory, currently in the public_html web root
 
 ## JavaScript/Node.js Usage
 
