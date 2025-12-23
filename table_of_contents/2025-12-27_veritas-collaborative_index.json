@@ -5,18 +5,6 @@
   "version": "v1.0.0",
   "reporting_plans": [
     {
-      "plan_name": "Veritas Collaborative NC",
-      "plan_id_type": "ein",
-      "plan_id": "MHH0978",
-      "plan_market_type": "individual",
-      "in_network_files": [
-        {
-          "description": "North Carolina In-Network Rates",
-          "location": "https://emilyprogram.com/2025-12-27_veritas-collaborative_nc_in-network-rates.json"
-        }
-      ]
-    },
-    {
       "plan_name": "Veritas Collaborative NC - Durham",
       "plan_id_type": "ein",
       "plan_id": "MHH0972",
